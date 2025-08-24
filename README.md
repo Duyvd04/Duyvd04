@@ -35,7 +35,7 @@ A full-stack recruitment platform automating hiring workflows.
 
 ---
 
-### 🔹 [Inventory & Sales Management System](https://github.com/Duyvd04/Inventory-Sales)
+### 🔹 [Inventory & Sales Management System](https://github.com/TranDung147/CG_FinalModule)
 A system to streamline sales and stock management.  
 - 📊 Designed **20+ RESTful endpoints** → boosted data accuracy by **50%**  
 - 🔐 Integrated **JWT-based role access control** → 0 unauthorized access  
