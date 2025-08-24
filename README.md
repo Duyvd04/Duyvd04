@@ -45,7 +45,6 @@ A system to streamline sales and stock management.
 ---
 
 ## 📊 GitHub Stats
-![Duy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duyvd04&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duyvd04&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Duyvd04&theme=highcontrast)  
 
